@@ -3,7 +3,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Dzaky Row"),
+        title: Text("Elvi Row"),
       ),
       body: Center(
         child: Row(
